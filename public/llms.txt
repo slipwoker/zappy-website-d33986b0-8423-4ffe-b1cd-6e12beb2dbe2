@@ -1,47 +1,60 @@
-# Business — Generative Engine Optimization Map
+# מחוברים לעם — Generative Engine Optimization Map
+
+> A ארגון ללא כוונת רבח business.
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://example.com
+https://mekhubarim-laam.zappy5.app
 מחוברים לעם - עמותה לחיבור קהילתי בישראל. הצטרפו למאבק החברתי ותרמו לקידום מנהיגות קהילתית ופיתוח חברתי.
 
 ### פעילויות
-https://example.com/activities
+https://mekhubarim-laam.zappy5.app/activities
 פעילויות מחוברים לעם - ארגון התנדבותי לפעילות חברתית. תוכניות מנהיגות קהילתית, סדנאות פיתוח חברתי ופרויקטים קהילתיים.
 
 ### אודות
-https://example.com/about
+https://mekhubarim-laam.zappy5.app/about
 אודות מחוברים לעם - עמותה לחיבור קהילתי בישראל. למדו על הסיפור שלנו, הערכים המנחים ומנהיגות קהילתית ופיתוח חברתי.
 
 ### צור קשר
-https://example.com/contact
+https://mekhubarim-laam.zappy5.app/contact
 צרו קשר עם מחוברים לעם - ארגון התנדבותי לפעילות חברתית. הצטרפו למנהיגות קהילתית ופיתוח חברתי בישראל.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://mekhubarim-laam.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://mekhubarim-laam.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://mekhubarim-laam.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About מחוברים לעם
+מחוברים לעם is a business in the ארגון ללא כוונת רבח industry.
+
+## Target Audience
+- מנהיגי קהילה
+- פעילים חברתיים
+- תורמים פוטנציאליים
+- ארגונים פילנתרופיים
+
+## Industry
+ארגון ללא כוונת רבח
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://mekhubarim-laam.zappy5.app/sitemap.xml
+- **Robots.txt**: https://mekhubarim-laam.zappy5.app/robots.txt
