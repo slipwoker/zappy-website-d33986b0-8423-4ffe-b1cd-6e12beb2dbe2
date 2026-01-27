@@ -13,7 +13,19 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://mekhubarim-laam.zappy5.app/about</loc>
+    <loc>https://mekhubarim-laam.zappy5.app/https://zappy5.com/preview/d33986b0-8423-4ffe-b1cd-6e12beb2dbe2?page=%2Fabout</loc>
+    <lastmod>2026-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mekhubarim-laam.zappy5.app/volunteer</loc>
+    <lastmod>2026-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mekhubarim-laam.zappy5.app/our-team</loc>
     <lastmod>2026-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
