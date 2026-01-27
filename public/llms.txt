@@ -1,4 +1,6 @@
-# Business — Generative Engine Optimization Map
+# מחוברים לעם — Generative Engine Optimization Map
+
+> A ארגון ללא כוונת רבח business.
 
 ---
 
@@ -46,7 +48,18 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About מחוברים לעם
+מחוברים לעם is a business in the ארגון ללא כוונת רבח industry.
+
+## Target Audience
+- מנהיגי קהילה
+- פעילים חברתיים
+- תורמים פוטנציאליים
+- ארגונים פילנתרופיים
+
+## Industry
+ארגון ללא כוונת רבח
+
 ---
 
 # Additional Resources
