@@ -19,12 +19,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://mekhubarim-laam.zappy5.app/https://zappy5.com/preview/d33986b0-8423-4ffe-b1cd-6e12beb2dbe2?page=%2Fabout</loc>
-    <lastmod>2026-01-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://mekhubarim-laam.zappy5.app/our-team</loc>
     <lastmod>2026-01-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -55,13 +49,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://mekhubarim-laam.zappy5.app/soup-kitchen-project</loc>
+    <loc>https://mekhubarim-laam.zappy5.app/meal-for-every-child</loc>
     <lastmod>2026-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://mekhubarim-laam.zappy5.app/meal-for-every-child</loc>
+    <loc>https://mekhubarim-laam.zappy5.app/about-us</loc>
     <lastmod>2026-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -70,12 +64,6 @@
     <loc>https://mekhubarim-laam.zappy5.app/contact</loc>
     <lastmod>2026-01-28</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://mekhubarim-laam.zappy5.app/about-us</loc>
-    <lastmod>2026-01-28</lastmod>
-    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
