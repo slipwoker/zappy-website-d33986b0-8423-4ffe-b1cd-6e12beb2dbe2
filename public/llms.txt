@@ -1,6 +1,4 @@
-# מחוברים לעם — Generative Engine Optimization Map
-
-> A ארגון ללא כוונת רבח business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -46,6 +44,34 @@ https://mekhubarim-laam.zappy5.app/soldiers-support
 https://mekhubarim-laam.zappy5.app/contact-137134
 צרו קשר עם עמותת מחוברים לעם. אנו זמינים לכל שאלה, בקשה להתנדבות או סיוע. פרטי התקשרות, כתובת בירושלים וטופס פנייה מהיר. הצטרפו לעשייה החברתית שלנו.
 
+### תשלום ותרומה | מחוברים לעם - עמותה לחיבור קהילתי בישראל
+https://mekhubarim-laam.zappy5.app/https://mehubarimlaam.co.il
+עמוד תשלום ותרומה מאובטח לעמותת מחוברים לעם. הצטרפו אלינו בחיזוק החוסן החברתי, פיתוח מנהיגות קהילתית ותמיכה באוכלוסיות מגוונות בישראל.
+
+### תרומה לקהילה - מחוברים לעם | עמותה לחיבור קהילתי בישראל
+https://mekhubarim-laam.zappy5.app/donate
+הצטרפו למעגל הנתינה של מחוברים לעם. תרומתכם מסייעת לנו לחזק את הקהילה, לפתח מנהיגות חברתית ולתמוך באוכלוסיות מוחלשות. תרומה מאובטחת אונליין.
+
+### מחוברים לעם | עמותה לחיבור קהילתי ושינוי חברתי בישראל
+https://mekhubarim-laam.zappy5.app/about-us
+הכירו את מחוברים לעם - עמותה לחיבור קהילתי בישראל המובילה שינוי חברתי דרך התנדבות, מנהיגות קהילתית ופיתוח חברתי. הצטרפו אלינו לבניית חברה ישראלית חזקה ומאוחדת.
+
+### תרומה מאובטחת | מחוברים לעם
+https://mekhubarim-laam.zappy5.app/secure-donation
+עמוד תרומה מאובטחת לעמותת מחוברים לעם. תרומתכם מסייעת לנו להמשיך בפעילות חברתית ענפה, חלוקת סלי מזון ותמיכה בקהילה. הצטרפו לעשייה.
+
+### תרומה ושותפות | מחוברים לעם
+https://mekhubarim-laam.zappy5.app/donate-628231
+היו שותפים לעשייה החברתית של מחוברים לעם - עמותה לחיבור קהילתי בישראל. תרומתכם מסייעת לנו להמשיך בפעילות התנדבותית, פיתוח מנהיגות קהילתית וחיזוק החוסן החברתי.
+
+### תרומה - מחוברים לעם
+https://mekhubarim-laam.zappy5.app/donate-079341
+עמוד תרומה מאובטח עבור עמותת מחוברים לעם
+
+### תרומה - מחוברים לעם
+https://mekhubarim-laam.zappy5.app/donate-iframe
+דף תרומה מאובטח - מחוברים לעם
+
 ## Legal & Policy
 
 ### Privacy Policy
@@ -64,18 +90,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About מחוברים לעם
-מחוברים לעם is a business in the ארגון ללא כוונת רבח industry.
-
-## Target Audience
-- מנהיגי קהילה
-- פעילים חברתיים
-- תורמים פוטנציאליים
-- ארגונים פילנתרופיים
-
-## Industry
-ארגון ללא כוונת רבח
-
+## About Business
 ---
 
 # Additional Resources
