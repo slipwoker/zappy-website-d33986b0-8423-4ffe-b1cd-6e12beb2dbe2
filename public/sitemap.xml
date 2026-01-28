@@ -73,6 +73,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://mekhubarim-laam.zappy5.app/about-us</loc>
+    <lastmod>2026-01-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://mekhubarim-laam.zappy5.app/privacy</loc>
     <lastmod>2026-01-28</lastmod>
     <changefreq>monthly</changefreq>
