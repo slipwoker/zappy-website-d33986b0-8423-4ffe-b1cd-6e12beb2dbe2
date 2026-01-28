@@ -1,6 +1,4 @@
-# מחוברים לעם — Generative Engine Optimization Map
-
-> A ארגון ללא כוונת רבח business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -10,6 +8,10 @@
 https://mekhubarim-laam.zappy5.app
 מחוברים לעם - עמותה לחיבור קהילתי בישראל. הצטרפו למאבק החברתי ותרמו לקידום מנהיגות קהילתית ופיתוח חברתי.
 
+### מבצע חזרה לבית הספר - 2000 תיקים לילדים | מחוברים לעם
+https://mekhubarim-laam.zappy5.app/school-bags-campaign
+עמותת מחוברים לעם מסכמת מבצע מרגש של חלוקת 2000 תיקים לילדים מועטי יכולת. הצטרפו אלינו לתמיכה בפעילות חברתית וחיבור קהילתי בישראל.
+
 ### פעילויות ותוכניות חברתיות — מחוברים לעם
 https://mekhubarim-laam.zappy5.app/activities
 פעילויות מחוברים לעם - ארגון התנדבותי לפעילות חברתית. תוכניות מנהיגות קהילתית, סדנאות פיתוח חברתי ופרויקטים קהילתיים.
@@ -18,25 +20,13 @@ https://mekhubarim-laam.zappy5.app/activities
 https://mekhubarim-laam.zappy5.app/https://zappy5.com/preview/d33986b0-8423-4ffe-b1cd-6e12beb2dbe2?page=%2Fabout
 אודות מחוברים לעם - עמותה לחיבור קהילתי בישראל. למדו על הסיפור שלנו, הערכים המנחים ומנהיגות קהילתית ופיתוח חברתי.
 
-### התנדבות במחוברים לעם - הצטרפו לעשייה חברתית משמעותית
-https://mekhubarim-laam.zappy5.app/volunteer
-הצטרפו למערך המתנדבים של מחוברים לעם. אנו עמותה לחיבור קהילתי בישראל המזמינה אתכם לקחת חלק בפעילות חברתית משמעותית, מנהיגות קהילתית ופיתוח חברתי.
-
 ### הצוות שלנו - מחוברים לעם
 https://mekhubarim-laam.zappy5.app/our-team
 הכירו את הצוות המוביל של עמותת מחוברים לעם. אנשי חזון ועשייה הפועלים למען חיבור קהילתי בישראל, מנהיגות חברתית ופיתוח חברתי בכל רחבי הארץ.
 
-### צרו קשר והצטרפו אלינו — מחוברים לעם
-https://mekhubarim-laam.zappy5.app/contact
-צרו קשר עם מחוברים לעם - ארגון התנדבותי לפעילות חברתית. הצטרפו למנהיגות קהילתית ופיתוח חברתי בישראל.
-
 ### מחוברים לעם | פעילות חברתית וחיבור קהילתי בישראל
 https://mekhubarim-laam.zappy5.app/social-activity
 הכירו את הפעילות החברתית של עמותת מחוברים לעם. אנו מובילים עשייה למען הקהילה, חיזוק החוסן החברתי וערבות הדדית בישראל. הצטרפו אלינו לעשייה משמעותית.
-
-### מבצע חזרה לבית הספר - 2000 תיקים לילדים | מחוברים לעם
-https://mekhubarim-laam.zappy5.app/school-bags-campaign
-עמותת מחוברים לעם מסכמת מבצע מרגש של חלוקת 2000 תיקים לילדים מועטי יכולת. הצטרפו אלינו לתמיכה בפעילות חברתית וחיבור קהילתי בישראל.
 
 ### גלריה - מחוברים לעם
 https://mekhubarim-laam.zappy5.app/gallery
@@ -58,6 +48,10 @@ https://mekhubarim-laam.zappy5.app/soup-kitchen-project
 https://mekhubarim-laam.zappy5.app/meal-for-every-child
 הצטרפו לפרוייקט ארוחה לכל ילד של עמותת מחוברים לעם. יחד נדאג שאף ילד לא יישאר רעב. תרומה לעמותה לחיבור קהילתי בישראל למען ביטחון תזונתי.
 
+### צרו קשר והצטרפו אלינו — מחוברים לעם
+https://mekhubarim-laam.zappy5.app/contact
+צרו קשר עם מחוברים לעם - ארגון התנדבותי לפעילות חברתית. הצטרפו למנהיגות קהילתית ופיתוח חברתי בישראל.
+
 ## Legal & Policy
 
 ### Privacy Policy
@@ -76,18 +70,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About מחוברים לעם
-מחוברים לעם is a business in the ארגון ללא כוונת רבח industry.
-
-## Target Audience
-- מנהיגי קהילה
-- פעילים חברתיים
-- תורמים פוטנציאליים
-- ארגונים פילנתרופיים
-
-## Industry
-ארגון ללא כוונת רבח
-
+## About Business
 ---
 
 # Additional Resources
