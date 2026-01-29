@@ -121,6 +121,24 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://mekhubarim-laam.zappy5.app/donate-popup</loc>
+    <lastmod>2026-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mekhubarim-laam.zappy5.app/donate-action</loc>
+    <lastmod>2026-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mekhubarim-laam.zappy5.app/donate-popup-197784</loc>
+    <lastmod>2026-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://mekhubarim-laam.zappy5.app/privacy</loc>
     <lastmod>2026-01-29</lastmod>
     <changefreq>monthly</changefreq>

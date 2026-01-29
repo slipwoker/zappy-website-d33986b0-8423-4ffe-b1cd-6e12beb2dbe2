@@ -2270,6 +2270,169 @@ body.accessibility-widget-visible ._access-menu {
   }
 }
 
+/* Added Component Styles */
+.cta-section-v1 {
+  padding: 80px 20px;
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  font-family: system-ui, sans-serif;
+}
+
+.cta-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 60px;
+  align-items: center;
+}
+
+.cta-content {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.cta-title {
+  font-size: 42px;
+  font-weight: 700;
+  color: var(--text-color);
+  line-height: 1.2;
+  margin: 0;
+}
+
+.cta-description {
+  font-size: 18px;
+  line-height: 1.7;
+  color: #4a5568;
+  margin: 0;
+}
+
+.cta-buttons {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.cta-button {
+  padding: 16px 32px;
+  font-size: 18px;
+  font-weight: 600;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-family: system-ui, sans-serif;
+}
+
+.cta-button-primary {
+  background-color: #7C3AED;
+  color: white;
+  box-shadow: 0 4px 12px rgba(124, 58, 237, 0.3);
+}
+
+.cta-button-primary:hover {
+  background-color: #6D28D9;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(124, 58, 237, 0.4);
+}
+
+.cta-button-primary:active {
+  transform: translateY(0);
+}
+
+.cta-button-secondary {
+  background-color: white;
+  color: #7C3AED;
+  border: 2px solid #7C3AED;
+}
+
+.cta-button-secondary:hover {
+  background-color: #7C3AED;
+  color: white;
+  transform: translateY(-2px);
+}
+
+.cta-stats {
+  display: flex;
+  gap: 40px;
+  margin-top: 16px;
+  flex-wrap: wrap;
+}
+
+.stat-item {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.stat-number {
+  font-size: 32px;
+  font-weight: 700;
+  color: #7C3AED;
+}
+
+.stat-label {
+  font-size: 14px;
+  color: #6b7280;
+}
+
+.cta-image {
+  position: relative;
+}
+
+.cta-img {
+  width: 100%;
+  height: auto;
+  border-radius: 16px;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.cta-img:hover {
+  transform: scale(1.02);
+}
+
+@media (max-width: 968px) {
+  .cta-container {
+    grid-template-columns: 1fr;
+    gap: 40px;
+  }
+  
+  .cta-title {
+    font-size: 32px;
+  }
+  
+  .cta-description {
+    font-size: 16px;
+  }
+  
+  .cta-stats {
+    gap: 24px;
+  }
+}
+
+@media (max-width: 640px) {
+  .cta-section-v1 {
+    padding: 60px 16px;
+  }
+  
+  .cta-title {
+    font-size: 28px;
+  }
+  
+  .cta-buttons {
+    flex-direction: column;
+  }
+  
+  .cta-button {
+    width: 100%;
+  }
+  
+  .stat-number {
+    font-size: 24px;
+  }
+}
+
 /* ========== RTL MOBILE NAVBAR FIX (zappy-rtl-mobile-fix) ========== */
 /* High-specificity rules to ensure RTL positioning wins over any [lang="en"] conflicts */
 /* For RTL sites: hamburger on RIGHT, phone on LEFT (mirror of LTR layout) */
